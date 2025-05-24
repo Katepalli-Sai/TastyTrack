@@ -37,7 +37,5 @@ To get started with this project, you will need the following tools installed:
 4. **JWT Authentication**: Store JWT tokens in local storage for user authentication and session management.
 5. **Routing**: Use React Router for page navigation (e.g., login, register, saved recipes, view recipes).
 
-## Project Structure
 
-### Backend (`server/`)
 
