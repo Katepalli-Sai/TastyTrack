@@ -1,6 +1,6 @@
-# Recipe Manager
+# TastyTrack
 
-**Recipe Manager** is a MERN stack-based application that allows users to manage multiple recipes, including creating, editing, and deleting them. The app features user authentication, saving favorite recipes, and secure storage of data in MongoDB. Built with React on the frontend and Express.js on the backend, this project demonstrates the full capabilities of the MERN stack.
+**TastyTrack** is a MERN stack-based application that allows users to manage multiple recipes, including creating, editing, and deleting them. The app features user authentication, saving favorite recipes, and secure storage of data in MongoDB. Built with React on the frontend and Express.js on the backend, this project demonstrates the full capabilities of the MERN stack.
 
 ## Features
 - **Create, Edit, Delete Recipes**: Manage a variety of recipes.
@@ -36,3 +36,8 @@ To get started with this project, you will need the following tools installed:
 3. **Create Pages and Components**: Build pages for login, registration, viewing recipes, and creating new recipes. Create reusable components like a navigation bar and recipe form.
 4. **JWT Authentication**: Store JWT tokens in local storage for user authentication and session management.
 5. **Routing**: Use React Router for page navigation (e.g., login, register, saved recipes, view recipes).
+
+## Project Structure
+
+### Backend (`server/`)
+
